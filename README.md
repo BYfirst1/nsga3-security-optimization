@@ -11,3 +11,15 @@ This repository implements a multi-objective optimization framework for selectin
 ## Usage
 ```bash
 python main.py
+## Requirements
+See requirements.txt
+
+## Reproducibility
+Run the script to reproduce results.
+
+## Repository Structure
+nsga3-security-optimization/
+ ├── main.py
+ ├── README.md
+ ├── requirements.txt
+ └── LICENSE
